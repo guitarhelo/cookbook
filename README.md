@@ -1,6 +1,8 @@
 # cookbook
 
-A new Flutter application.
+A new Flutter template  application for developer, include technology news,code ,article .etc
+
+![avatar](https://panjingping.s3-ap-southeast-1.amazonaws.com/assets/images/mobile_tempalte.png)
 
 ## Getting Started
 
